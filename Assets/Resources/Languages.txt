@@ -1,0 +1,15 @@
+1
+Cambiar idioma
+Change language
+Jugar
+Play game
+Ultimo ganador
+Last winner
+Blanco
+White
+Negro
+Black
+Nadie
+Nobody
+Salir
+Exit
